@@ -1,0 +1,19 @@
+Comparando os arquivos 01.out e SAIDA.TXT
+***** 01.out
+Conjunto de desculpas #1
+"Meu cachorro engoliu as chaves do carro, e fiquei esperando".
+
+***** SAIDA.TXT
+Conjunto de desculpas #1
+Holmes. Here I had heard what he had heard, I had seen what he had
+
+*****
+
+***** 01.out
+Conjunto de desculpas #2
+MEU CACHORRO ENGOLIU AS CHAVES DO CARRO, E FIQUEI ESPERANDO.
+Amanha sem falta!
+
+***** SAIDA.TXT
+*****
+

@@ -1,0 +1,3 @@
+Comparando os arquivos 02.out e SAIDA2.TXT
+FC: nenhuma diferença encontrada
+

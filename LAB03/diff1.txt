@@ -1,0 +1,3 @@
+Comparando os arquivos 01.out e SAIDA1.TXT
+FC: nenhuma diferença encontrada
+
